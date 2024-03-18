@@ -74,7 +74,7 @@ Similiarly as the images I had been provided with were in a variety of different
 
 ## Deployment
 
-The website has been deployed to Github pages and can be found at: <https://cianhub.github.io/the-monkees-website/>
+The website has been deployed to Github pages and can be found at:  <https://alisha140202.github.io/tarang_/>
 
 ## Installation
 
@@ -94,3 +94,7 @@ The website has been deployed to Github pages and can be found at: <https://cian
 ### Acknowledgements
 
 - I received inspiration for image overlay and block divider from the [Whiskey Drop - Course Project](https://github.com/Code-Institute-Solutions/BootstrapLandingPage)
+
+ ## Overview    
+ ![11111](https://github.com/alisha140202/Tarang/assets/102052712/ccacd77d-8d29-42b4-ae45-9a418cfa34b3)
+![222222](https://github.com/alisha140202/Tarang/assets/102052712/34146d87-c6f5-464e-b2be-3a5e72d3df23)
